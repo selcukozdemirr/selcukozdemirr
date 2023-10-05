@@ -1,4 +1,5 @@
- # [👋 Hi, I’m Selçuk Özdemir, I'm a Python data scientist specializing in:](#)
+ # [👋 Hi, I’m Selçuk Özdemir.](#) 
+ # [I'm a Python data scientist specializing in:](#)
 __* Data analysis__\
 __* SQL  databases__ \
 __* Machine learning__ 
