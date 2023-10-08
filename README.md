@@ -21,5 +21,5 @@ __* Scalable machine learning pipelines__
 
 # [📫 You can reach me via:](#)
  __Email: selcukozdemir@hotmail.com__ \
- __https://medium.com/@selcukozdemirr__ \
+ __Medium: https://medium.com/@selcukozdemirr__ \
  __LinkedIn: https://www.linkedin.com/in/selcuk-ozdemir__
